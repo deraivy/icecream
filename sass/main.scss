@@ -1,0 +1,20 @@
+$primary: #f195b2;
+$secondary: #62c3e7;
+$light: #ffffff;
+$dark: #333333;
+
+$font-family-sans-serif: "Poppins", sans-serif;
+
+$body-bg: #f3f6ff;
+
+$body-color: #555555;
+
+$headings-color: $dark;
+
+$enable-responsive-font-sizes: true;
+
+$border-radius: 5px;
+@import "../node_modules/bootstrap/scss/functions";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/bootstrap";
